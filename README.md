@@ -1,8 +1,8 @@
 # Hi 👋 My name is Arek
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arekmaurya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arekmaurya&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arekmaurya&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arekmaurya&theme=nord_dark)
 
 ## 🛠️ Tech Stack
 
