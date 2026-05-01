@@ -18,7 +18,7 @@ class HarshMaurya:
     languages = ["Python", "C", "C++"]
     currently_learning = "Neural Networks & LLMs"
     fun_fact = "I think in tensors 🤖"
-` `` `
+```
 
 ---
 
@@ -26,7 +26,7 @@ class HarshMaurya:
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,linux,git,github,vscode,c)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,github,vscode,c)](https://skillicons.dev)
 
 </div>
 
@@ -60,8 +60,3 @@ class HarshMaurya:
 ![Snake animation](https://raw.githubusercontent.com/Arekmaurya/Arekmaurya/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
-```
-
-> ⚠️ **Note:** The code block in the "About Me" section — make sure the closing triple backtick (` ``` `) has **no space** before it. I added a space to avoid formatting issues here.
-
----
