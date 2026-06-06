@@ -34,7 +34,9 @@ class HarshMaurya:
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=Arekmaurya&theme=tokyonight&hide_border=true&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arekmaurya&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arekmaurya&theme=tokyonight)
 
